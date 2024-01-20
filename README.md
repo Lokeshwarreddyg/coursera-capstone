@@ -12,6 +12,8 @@
 ### Explore the data in order to obtain more insight from the data.
 ## Business metric
 ### Classification accuracy - number of correct prediction divided by the total number of prediction 
+![image](https://github.com/Lokeshwarreddyg/coursera-capstone/assets/143295830/cb9913f9-7c6f-43ed-bfbb-973a992eb431)
+
 
 ## Deliverables
 ### Accurate predictive algorithms
